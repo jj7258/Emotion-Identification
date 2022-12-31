@@ -20,6 +20,6 @@ To use this model, you will need to have the following dependencies installed:
 
 ## Team
 
-[![Nayana Krishna](https://avatars.githubusercontent.com/u/114819193?v=4)](https://github.com/Nayana17802) | [![Skandhan R Nair](https://avatars.githubusercontent.com/u/121687515?v=4)](https://github.com/Skandhan2002) | [![Kristiena Benny](https://avatars.githubusercontent.com/u/103274505?v=4)](https://github.com/Krizzzty)
---- | --- | ---
-[Nayana Krishna](https://github.com/Nayana17802) | [Skandhan R Nair](https://github.com/Skandhan2002) | [Kristiena Benny](https://github.com/Krizzzty)
+[![Nayana Krishna](https://avatars.githubusercontent.com/u/114819193?v=4)](https://github.com/Nayana17802) | [![Skandhan R Nair](https://avatars.githubusercontent.com/u/121687515?v=4)](https://github.com/Skandhan2002) | [![Kristiena Benny](https://avatars.githubusercontent.com/u/103274505?v=4)](https://github.com/Krizzzty) | [![Joel Georgie Jacob](https://avatars.githubusercontent.com/u/43933982?v=4)](https://github.com/jj7258)
+--- | --- | --- | ---
+[Nayana Krishna](https://github.com/Nayana17802) | [Skandhan R Nair](https://github.com/Skandhan2002) | [Kristiena Benny](https://github.com/Krizzzty) | [Joel Georgie Jacob](https://github.com/jj7258)
